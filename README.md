@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ajay Pratap
 
-🎓 B.Tech Student | SDE Focus
+🎓 B.Tech CSE Student | SDE Focus
 
 ## 🚀 About Me
 - 🌱 Currently learning Data Structures & Algorithms in Java
