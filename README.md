@@ -10,7 +10,7 @@
 - 🎯 Goal: Become a Software Engineer
 
 ## 🛠️ Tech Stack
-- Java
+- MERN
 - HTML, CSS, JavaScript
 - MySQL
 - MongoDB
