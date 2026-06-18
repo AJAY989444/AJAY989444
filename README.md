@@ -24,10 +24,6 @@
 ### Flipkart Clone
 - MERN
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJAY989444&show_icons=true)
-
 ## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ajay-pratap-b61ba7242/
 - Email: ajaypratap61203@gmail.com
