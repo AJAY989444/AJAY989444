@@ -18,11 +18,6 @@
 
 ## 📈 Coding Profiles
 - LeetCode: [https://leetcode.com/u/AjayPratap01/]
-- LinkedIn: [https://www.linkedin.com/in/ajay-pratap-b61ba7242/]
-
-## 📌 Featured Projects
-### Flipkart Clone
-- MERN
 
 ## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ajay-pratap-b61ba7242/
