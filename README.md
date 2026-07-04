@@ -83,19 +83,6 @@ public class AjayPratap {
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AJAY989444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAY989444&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AJAY989444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
-</div>
-
----
-
 ## 🔭 Currently Exploring
 
 - 🌱 **Spring Boot** — Building REST APIs with Spring MVC & Maven
@@ -119,11 +106,3 @@ public class AjayPratap {
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AJAY989444&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
-</div>
